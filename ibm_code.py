@@ -5,12 +5,12 @@ import time
 import random
 myConfig = { 
     "identity": {
-        "orgId": "hj5fmy",
-        "typeId": "NodeMCU",
+        "orgId": "iv3fp1",
+        "typeId": "Testdevicetype",
         "deviceId":"12345"
     },
     "auth": {
-        "token": "12345678"
+        "token": "tsR+GX6bxqbFakh6xR"
     }
 }
 
